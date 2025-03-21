@@ -1,0 +1,18 @@
+/* CSS SELECTORS */
+/* TYPE SELECTORS */
+h1{
+    font size: 1000px;
+
+}
+/* CLASS SELECTOR */
+.underline{
+    text-decoration: underline;
+
+}
+.red{
+    color: red;
+}
+/* ID SELECTOR */
+#lastItem{
+text-decoration: line-through;
+}
